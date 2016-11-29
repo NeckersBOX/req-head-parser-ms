@@ -1,0 +1,19 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Challenge",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeckersBOX/req-head-parser-ms.git"
+  },
+  "author": "Davide Francesco Merico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeckersBOX/req-head-parser-ms/issues"
+  },
+  "homepage": "https://github.com/NeckersBOX/req-head-parser-ms#readme"
+}
